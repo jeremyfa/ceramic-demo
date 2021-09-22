@@ -1,0 +1,19 @@
+{
+    "window.title": "${activeEditorShort} — ceramic-demo",
+    "haxe.displayConfigurations": [
+        [
+            "completion.hxml"
+        ]
+    ],
+    "search.exclude": {
+        "**/.git": true,
+        "**/node_modules": true,
+        "**/tmp": true,
+        "**/out": true
+    },
+    "haxe.configurations": [
+        [
+            "completion.hxml"
+        ]
+    ]
+}

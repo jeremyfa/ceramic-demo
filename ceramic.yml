@@ -1,0 +1,12 @@
+app:
+    package: mycompany.demo
+    name: CeramicDemo
+    displayName: ceramic-demo
+    author: Jeremy Faivre
+    version: '1.0'
+
+ide:
+    variants:
+        - name: No inline
+          args: ['--no-inline']
+          group: build
